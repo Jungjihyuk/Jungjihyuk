@@ -16,12 +16,12 @@ I'm Jihyeok jeong. I'm a person who wanna contribute to the world with my comput
 <p align="center">
     <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
     <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/></a>&nbsp
-    <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white"></a>&nbsp
-    <img src="https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white"></a>&nbsp
+    <img src="https://img.shields.io/badge/FastAPI-005571?style=for-flat-square&logo=fastapi&logoColor=white"></a>&nbsp
+    <img src="https://img.shields.io/badge/postgresql-4169e1?style=flat-square&logo=postgresql&logoColor=white"></a>&nbsp
     <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white"/></a>&nbsp 
+    <br>  
     <img src="https://img.shields.io/badge/Scikitlearn-F7931E?style=flat-square&logo=Scikitlearn&logoColor=white"/></a>&nbsp 
     <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white"/></a>&nbsp
-    <br>  
     <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/></a>&nbsp 
     <img src="https://img.shields.io/badge/Ubuntu18.04-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/></a>&nbsp 
 </p>
